@@ -19,7 +19,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 > 🚧 **Page Under Construction** 🚧
 
-This project is currently being developed.
+This project is currently being developed. 
 
 
 Ref 1: Network Diagram
